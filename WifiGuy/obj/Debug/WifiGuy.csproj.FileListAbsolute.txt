@@ -1,0 +1,9 @@
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\bin\Debug\WifiGuy.exe.config
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\bin\Debug\WifiGuy.exe
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\bin\Debug\WifiGuy.pdb
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\obj\Debug\WifiGuy.csprojResolveAssemblyReference.cache
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\obj\Debug\WifiGuy.Form1.resources
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\obj\Debug\WifiGuy.Properties.Resources.resources
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\obj\Debug\WifiGuy.csproj.GenerateResource.Cache
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\obj\Debug\WifiGuy.exe
+c:\users\rich\documents\visual studio 2012\Projects\WifiGuy\WifiGuy\obj\Debug\WifiGuy.pdb
